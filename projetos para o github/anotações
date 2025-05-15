@@ -1,0 +1,7 @@
+#json.dump serve para salvar o dicionario em um arquivo JSON
+#with open tem a função de abrir o arquivo
+#'estoque.json' é o nome do arquivo onde o dicionário será salvo
+#'w' é o modo de abertura do arquivo (w = write)
+#estoque é o dicionário que será salvo
+#arquivo é o arquivo onde o dicionario sera salvo
+#indent=4 indentação do arquivo com 4 espaços
